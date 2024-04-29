@@ -8,7 +8,7 @@ I am an engineering supervisor who loves data science.
 
 * ✉️  You can contact me at [eshlemovsky@ieee.org](mailto:eshlemovsky@ieee.org)
 * 🧠  I'm learning Data Science and Machine Learning
-* 🤝  I'm open to collaborating on Interesting data science projects
+* 🤝  I'm open to collaborating on interesting data science projects
 
 ### Skills
 
